@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/sachinrao/Documents/Data Science/Sensor Project/venv/bin/python" "$0" "$@"
+'''exec' "/Users/sachinrao/Documents/Data Science/Sensor Project/venv/bin/python3.10" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
